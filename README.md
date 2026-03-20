@@ -44,11 +44,11 @@ in a production environment.
 |---|---|
 | Microsoft Sentinel SC-200 | In progress |
 | BTL1 – Blue Team Level 1 | In progress |
-| TryHackMe – SOC Level 1 Path | Earned |
+| TryHackMe – SOC Level 1 Path | 2026 |
 | CompTIA Security+ | In progress |
 | Splunk Core Certified User | In progress |
-| TryHackMe – Pre Security Path | Earned |
-| Cisco – Networking Basics | Earned |
+| TryHackMe – Pre Security Path | 2026 |
+| Cisco – Networking Basics | 2026 |
 
 
 
